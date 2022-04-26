@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://kosiwanich.medium.com/](https://kosiwanich.medium.com/)
 
-- 💬 Ask me about **My work-life balance**
+- 💬 Ask me about **Valorant**
 
 - 📫 How to reach me **khunfloat@gmail.com**
 
