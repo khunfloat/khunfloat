@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayoot Kosiwanich</h1>
-<h3 align="center">A student who enjoys coding from Thailand. Aim for a position in an engineering faculty.</h3>
+<h3 align="center">CU Intanorn 106</h3>
 
 - 🌱 I’m currently learning **Blockchain, Solidity, react-js**
 
