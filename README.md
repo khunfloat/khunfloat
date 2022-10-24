@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chayoot Kosiwanich</h1>
 <h3 align="center">CU Intanorn 106</h3>
 
-- 🌱 I’m currently learning **Blockchain, Solidity, react-js**
+- 🌱 I’m currently learning **typescript, react, nest**
 
 - 📝 I regularly write articles on [https://kosiwanich.medium.com/](https://kosiwanich.medium.com/)
 
