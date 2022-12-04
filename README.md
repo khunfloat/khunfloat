@@ -17,6 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
