@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayoot Kosiwanich</h1>
-<h3 align="center">CU Intanorn 106</h3>
+<h3 align="center">CU Intania 106 (No department)</h3>
 
 - 🌱 I’m currently learning **golang, typescript, react, nest**
 
