@@ -49,6 +49,5 @@
 
 ## Github Stats
 
-![khunfloat's github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=khunfloat&show_icons=true&locale=en&layout=compact)
-
+[![khunfloat's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khunfloat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![khunfloat's github stats](https://github-readme-stats.vercel.app/api?username=khunfloat&hide=stars&count_private=true&show_icons=true)
