@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chayoot Kosiwanich</h1>
-<h3 align="center">CU Intania 106 (No department)</h3>
+<h3 align="center">CU Intania 106 (Industrial Engineering)</h3>
 
-- 🌱 I’m currently learning **golang, typescript, react, nest**
+- 🌱 I’m currently learning **golang, java, c#, nestjs**
 
 - 📝 I regularly write articles on [https://kosiwanich.medium.com/](https://kosiwanich.medium.com/)
 
-- 💬 Ask me about **Valorant**
+- 💬 Ask me about **How to Ctl-C Ctl-V like master.**
 
 - 📫 How to reach me **khunfloat@gmail.com**
 
-- ⚡ Fun fact **Ctl-C Ctl-V master.**
+- ⚡ Fun fact **I'm a musician that can coding a bit.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://medium.com/@kosiwanich" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
