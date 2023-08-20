@@ -49,6 +49,6 @@
 
 ## Github Stats
 
-[![khunfloat's github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=khunfloat&show_icons=true&locale=en&layout=compact)]
+![khunfloat's github stats]("https://github-readme-stats.vercel.app/api/top-langs?username=khunfloat&show_icons=true&locale=en&layout=compact)
 
-[![khunfloat's github stats](https://github-readme-stats.vercel.app/api?username=khunfloat&hide=stars&count_private=true&show_icons=true)]
+![khunfloat's github stats](https://github-readme-stats.vercel.app/api?username=khunfloat&hide=stars&count_private=true&show_icons=true)
