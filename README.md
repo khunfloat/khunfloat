@@ -46,4 +46,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
+
+## Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khunfloat&show_icons=true&locale=en&layout=compact" alt="khunfloat" /></p>
