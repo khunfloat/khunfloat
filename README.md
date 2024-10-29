@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chayoot Kosiwanich</h1>
 <h3 align="center">CU Intania 106 (Industrial Engineering)</h3>
 
-- 🌱 I’m currently working for [CUBS](https://github.com/CUBS-sources-code/) as PM
+- 🌱 I’m currently working for [CUBS](https://github.com/CUBS-sources-code/) as Project Manager, Blockchain Developer
 
 - 📝 I regularly write articles on [https://kosiwanich.medium.com/](https://kosiwanich.medium.com/)
 
